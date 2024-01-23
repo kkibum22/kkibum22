@@ -1,6 +1,6 @@
 
 <div align = "center">
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=ffffff&height=300&section=header&text=Hi%20&fontSize=45" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=33cd39&height=200&section=header&text=Hi%20&fontColor=ffffff&fontSize=45&" />
 <div>
   <h3>Bye</h3>
     <h3>💻 SKILLS 💻</h3>
@@ -39,7 +39,7 @@
 <br>
 <br>
   
-  ![footer](https://capsule-render.vercel.app/api?type=waving&&color=ffffff&height=100&section=footer&fontSize=90)
+  ![footer](https://capsule-render.vercel.app/api?type=waving&&color=33cd39&height=100&section=footer&fontSize=90)
 </div>
 
 
